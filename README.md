@@ -2,8 +2,7 @@
 ![Screenshot](CovidReports.png)
 ![Screenshot](CovidGraph.png)
 
-The Covid19 Tracker App runs the Johns Hopkins API (https://covid19.mathdro.id/api) to track live real world data of Covid19 cases for every country across the world.
-This App makes use of a graphical user interface to view the data easily that was parsed from JSON.
+A data visualization tool that analyzes and displays real-time, real-world COVID-19 data collected from Johns Hopkins University. The data is represented in an easy to read graphical representation.
 
 # Getting Started with Running this React App
 
