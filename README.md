@@ -1,7 +1,3 @@
-![Screenshot](CovidBanner.png)
-![Screenshot](CovidReports.png)
-![Screenshot](CovidGraph.png)
-
 <p>A data visualization tool that analyzes and displays real-time, real-world COVID-19 data collected from Johns Hopkins University. The data is represented in an easy to read graphical representation.</p>
 <p><b>Environment:</b> <i>ReactJS, HTML/CSS, REST API</i></p>
 
@@ -21,3 +17,6 @@ In the project directory, you can run:
 
 ### `npm run start` will run the program on localhost:3000
 
+![Screenshot](CovidBanner.png)
+![Screenshot](CovidReports.png)
+![Screenshot](CovidGraph.png)
